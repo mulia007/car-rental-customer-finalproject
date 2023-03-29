@@ -1,0 +1,36 @@
+.button-register {
+  background-color: #0d28a6;
+  border: none;
+  width: 370px;
+  height: 36px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  font-size: 14px;
+  font-weight: 700;
+
+  border-radius: 3px;
+}
+
+.sign-in {
+  align-items: center;
+  align-content: center;
+}
+
+.desktop {
+  background-image: url("../img/Group83.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  width: 938px;
+}
+
+.redirect a {
+  color: #0d28a6;
+}
+.redirect a:hover {
+  color: #0d28a6;
+}
